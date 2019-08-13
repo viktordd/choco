@@ -9,6 +9,7 @@ choco install hwmonitor
 choco install 7zip.install
 choco install notepadplusplus.install
 choco install beyondcompare
+choco install postman
 
 choco install powershell-core
 choco install git.install

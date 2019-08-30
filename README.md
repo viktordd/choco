@@ -1,5 +1,6 @@
 # choco
 
+```
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 choco install googlechrome
@@ -29,3 +30,4 @@ choco install gimp
 choco install putty
 
 https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017
+```

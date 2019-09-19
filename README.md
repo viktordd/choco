@@ -29,5 +29,7 @@ choco install gimp
 
 choco install putty
 
+choco install powertoys
+
 https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017
 ```

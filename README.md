@@ -3,33 +3,33 @@
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-choco install googlechrome
-choco install microsoft-teams
+choco install googlechrome -y
+choco install microsoft-teams -y
 
-choco install cpu-z.install
-choco install hwmonitor
+choco install cpu-z.install -y
+choco install hwmonitor -y
 
-choco install 7zip.install
-choco install notepadplusplus.install
-choco install beyondcompare
-choco install postman
+choco install 7zip.install -y
+choco install notepadplusplus.install -y
+choco install beyondcompare -y
+choco install postman -y
 
-choco install powershell-core
-choco install git.install
-choco install nodejs-lts
+choco install powershell-core -y
+choco install git.install -y
+choco install nodejs-lts -y
 
-choco install vscode
-choco install sql-server-management-studio
-choco install microsoftazurestorageexplorer
+choco install vscode -y
+choco install sql-server-management-studio -y
+choco install microsoftazurestorageexplorer -y
 
-choco install resharper
-choco install dotpeek
+choco install resharper -y
+choco install dotpeek -y
 
-choco install gimp
+choco install gimp -y
 
-choco install putty
+choco install putty -y
 
-choco install powertoys
+choco install powertoys -y
 
 https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017
 ```

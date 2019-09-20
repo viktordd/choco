@@ -1,8 +1,14 @@
-# choco
+# Chocolatey
+
+## Install Chocolatey
 
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
 
+## Packages
+
+```
 choco install googlechrome -y
 choco install microsoft-teams -y
 
@@ -30,6 +36,6 @@ choco install gimp -y
 choco install putty -y
 
 choco install powertoys -y
+```
 
 https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017
-```

@@ -45,7 +45,7 @@ choco install putty -y
 
 choco install powertoys -y
 
-choco install lili -y
+choco install lili.install -y
 ```
 
 https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017

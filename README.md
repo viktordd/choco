@@ -10,7 +10,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 ## Useful Commands
 
 ```
-choco list -local-only
+choco list -l
 choco outdated
 ```
 

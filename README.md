@@ -12,6 +12,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 ```
 choco list -l
 choco outdated
+choco upgrade all -y
 ```
 
 ## Packages

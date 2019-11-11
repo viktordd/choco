@@ -34,6 +34,7 @@ choco install git.install -y
 choco install nodejs-lts -y
 
 choco install vscode -y
+choco install azure-data-studio -y
 choco install sql-server-management-studio -y
 choco install microsoftazurestorageexplorer -y
 
@@ -46,7 +47,5 @@ choco install putty -y
 
 choco install powertoys -y
 
-choco install lili.install -y
+choco install lili.install -y   # LinuxLive USB Creator
 ```
-
-https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017

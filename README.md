@@ -1,15 +1,16 @@
 # Chocolatey
-https://chocolatey.org/
+
+<https://chocolatey.org/>
 
 ## Install Chocolatey
 
-```
+```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
 ## Useful Commands
 
-```
+```powershell
 choco list -l
 choco outdated
 choco upgrade all -y
@@ -17,7 +18,7 @@ choco upgrade all -y
 
 ## Packages
 
-```
+```powershell
 choco install googlechrome -y
 choco install microsoft-teams -y
 

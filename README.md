@@ -24,6 +24,7 @@ choco install microsoft-teams -y
 
 choco install cpu-z.install -y
 choco install hwmonitor -y
+choco install windirstat -y
 
 choco install 7zip.install -y
 choco install notepadplusplus.install -y

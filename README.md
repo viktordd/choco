@@ -30,6 +30,7 @@ choco install 7zip.install -y
 choco install notepadplusplus.install -y
 choco install beyondcompare -y
 choco install postman -y
+choco install fiddler -y
 
 choco install powershell-core -y
 choco install git.install -y

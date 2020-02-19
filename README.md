@@ -33,6 +33,7 @@ choco install beyondcompare -y
 choco install postman -y
 choco install fiddler -y
 
+choco install azure-cli -y
 choco install powershell-core -y
 choco install git.install -y
 choco install nodejs-lts -y

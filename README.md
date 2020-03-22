@@ -23,6 +23,7 @@ choco install googlechrome -y
 choco install microsoft-teams -y
 
 choco install cpu-z.install -y
+choco install gpu-z -y
 choco install hwmonitor -y
 choco install hwinfo.install -y
 choco install windirstat -y

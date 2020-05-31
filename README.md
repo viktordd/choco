@@ -43,7 +43,6 @@ choco install vscode -y
 choco install azure-data-studio -y
 choco install sql-server-management-studio -y
 choco install microsoftazurestorageexplorer -y
-choco install python -y
 
 choco install resharper -y
 choco install dotpeek -y

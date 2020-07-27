@@ -28,6 +28,8 @@ choco install hwmonitor -y
 choco install hwinfo.install -y
 choco install windirstat -y
 
+choco install msiafterburner -y
+
 choco install 7zip.install -y
 choco install notepadplusplus.install -y
 choco install beyondcompare -y

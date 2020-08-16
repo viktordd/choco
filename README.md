@@ -22,23 +22,23 @@ choco upgrade all -y
 choco install googlechrome -y
 choco install microsoft-teams -y
 
-choco install cpu-z.install -y
+choco install cpu-z -y
 choco install gpu-z -y
 choco install hwmonitor -y
-choco install hwinfo.install -y
+choco install hwinfo -y
 choco install windirstat -y
 
 choco install msiafterburner -y
 
-choco install 7zip.install -y
-choco install notepadplusplus.install -y
+choco install 7zip -y
+choco install notepadplusplus -y
 choco install beyondcompare -y
 choco install postman -y
 choco install fiddler -y
 
 choco install azure-cli -y
 choco install powershell-core -y
-choco install git.install -y
+choco install git -y
 choco install nodejs-lts -y
 
 choco install vscode -y

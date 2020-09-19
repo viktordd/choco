@@ -56,5 +56,6 @@ choco install putty -y
 
 choco install powertoys -y
 
-choco install lili.install -y   # LinuxLive USB Creator
+choco install etcher -y   # balena Etcher
+choco install lili -y   # LinuxLive USB Creator
 ```

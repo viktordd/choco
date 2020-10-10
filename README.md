@@ -21,6 +21,7 @@ choco upgrade all -y
 ```powershell
 choco install googlechrome -y
 choco install microsoft-teams -y
+choco install slack -y
 
 choco install cpu-z -y
 choco install gpu-z -y

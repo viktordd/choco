@@ -25,32 +25,36 @@ choco install slack -y
 
 choco install cpu-z -y
 choco install gpu-z -y
-choco install hwmonitor -y
 choco install hwinfo -y
+choco install hwmonitor -y
 
 choco install geforce-experience -y
 choco install msiafterburner -y
 
-choco install windirstat -y
 choco install 7zip -y
-choco install notepadplusplus -y
+choco install windirstat -y
+
 choco install beyondcompare -y
-choco install postman -y
+choco install notepadplusplus -y
+
 choco install fiddler -y
+choco install postman -y
 
 choco install azure-cli -y
-choco install powershell-core -y
 choco install git -y
 choco install nodejs-lts -y
+choco install powershell-core -y
 
-choco install vscode -y
-choco install azure-data-studio -y
-choco install sql-server-management-studio -y
-choco install microsoftazurestorageexplorer -y
+choco install dotnetcore-sdk -y
 choco install python -y
 
-choco install resharper -y
+choco install azure-data-studio -y
+choco install microsoftazurestorageexplorer -y
+choco install sql-server-management-studio -y
+choco install vscode -y
+
 choco install dotpeek -y
+choco install resharper -y
 
 choco install gimp -y
 

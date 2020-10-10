@@ -27,10 +27,11 @@ choco install cpu-z -y
 choco install gpu-z -y
 choco install hwmonitor -y
 choco install hwinfo -y
-choco install windirstat -y
 
+choco install geforce-experience -y
 choco install msiafterburner -y
 
+choco install windirstat -y
 choco install 7zip -y
 choco install notepadplusplus -y
 choco install beyondcompare -y

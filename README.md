@@ -22,6 +22,7 @@ choco upgrade all -y
 choco install googlechrome -y
 choco install microsoft-teams -y
 choco install slack -y
+choco install zoom -y
 
 choco install cpu-z -y
 choco install gpu-z -y

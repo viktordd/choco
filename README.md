@@ -19,7 +19,7 @@ choco upgrade all -y
 ## Packages
 
 ```powershell
-choco install cascadiacode -y
+choco install cascadiacodepl -y
 
 choco install googlechrome -y
 choco install microsoft-teams -y

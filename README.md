@@ -67,4 +67,6 @@ choco install powertoys -y
 
 choco install etcher -y   # balena Etcher
 choco install lili -y   # LinuxLive USB Creator
+
+choco install wireshark -y
 ```

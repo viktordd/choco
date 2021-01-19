@@ -43,8 +43,10 @@ choco install notepadplusplus -y
 choco install fiddler -y
 choco install postman -y
 
-choco install azure-cli -y
 choco install git -y
+choco install hub -y
+choco install gh -y
+choco install azure-cli -y
 choco install nodejs-lts -y
 choco install powershell-core -y
 

@@ -26,6 +26,8 @@ choco install microsoft-teams -y
 choco install slack -y
 choco install zoom -y
 
+choco install vlc -y
+
 choco install cpu-z -y
 choco install gpu-z -y
 choco install hwinfo -y

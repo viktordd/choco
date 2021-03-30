@@ -68,6 +68,7 @@ choco install gimp -y
 choco install putty -y
 
 choco install powertoys -y
+choco install autohotkey -y
 
 choco install etcher -y   # balena Etcher
 choco install lili -y   # LinuxLive USB Creator

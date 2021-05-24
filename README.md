@@ -21,6 +21,8 @@ choco upgrade all -y
 ```powershell
 choco install cascadiacodepl -y
 
+choco install bitwarden -y
+
 choco install googlechrome -y
 choco install microsoft-teams -y
 choco install slack -y

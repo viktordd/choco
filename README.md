@@ -19,6 +19,9 @@ choco upgrade all -y
 ## Packages
 
 ```powershell
+choco install choco-upgrade-all-at -y
+choco-upgrade-all -EditConfig
+
 choco install cascadiacodepl -y
 
 choco install bitwarden -y

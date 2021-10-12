@@ -56,6 +56,7 @@ choco install gh -y
 choco install azure-cli -y
 choco install nodejs-lts -y
 choco install powershell-core -y
+choco install graphviz -y
 
 choco install dotnetcore-sdk -y
 choco install python -y

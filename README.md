@@ -75,6 +75,7 @@ choco install gimp -y
 
 choco install putty -y
 
+choco install mousewithoutborders -y
 choco install powertoys -y
 choco install autohotkey -y
 

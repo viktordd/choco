@@ -23,6 +23,7 @@ choco install choco-upgrade-all-at -y
 choco-upgrade-all -EditConfig
 
 choco install cascadiacodepl -y
+choco install cascadia-code-nerd-font -y
 
 choco install bitwarden -y
 
@@ -50,13 +51,14 @@ choco install notepadplusplus -y
 choco install fiddler -y
 choco install postman -y
 
+choco install powershell-core -y
 choco install git -y
 choco install hub -y
 choco install gh -y
 choco install azure-cli -y
 choco install nodejs-lts -y
-choco install powershell-core -y
 choco install graphviz -y
+choco install oh-my-posh -y
 
 choco install dotnetcore-sdk -y
 choco install python -y
